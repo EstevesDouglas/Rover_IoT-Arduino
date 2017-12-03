@@ -12,8 +12,8 @@ int IN2 = 4;
 int IN3 = 5;
 int IN4 = 6;
 
-char ssid[] = "LHC";      //  your network SSID (name)
-char pass[] = "tijolo22";   // your network password
+char ssid[] = "wifi";      //  your network SSID (name)
+char pass[] = "password";   // your network password
 int keyIndex = 0;                 // your network key Index number (needed only for WEP)
 int ledpin = 7;
 bool val = true;
